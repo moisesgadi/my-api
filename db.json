@@ -1,0 +1,9 @@
+{
+  "servidores": [
+    { "id": 1, "nome": "vm-azure-prod", "status": "running" },
+    { "id": 2, "nome": "vm-azure-dev", "status": "stopped" }
+  ],
+  "recursos": [
+    { "id": 1, "tipo": "ResourceGroup", "nome": "rg-devops" }
+  ]
+}
